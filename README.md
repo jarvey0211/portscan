@@ -5,3 +5,4 @@
 #option 2 is a portscan, it will ask for the host ip and prot number, it will then print out any open ports.
 #option 3 does the same thing as option 2 put it saves the output to an html file in the same directory.
 #end will exit the program.
+#this was tested and coded in kali linux.
